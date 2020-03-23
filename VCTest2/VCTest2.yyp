@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "080f2c77-32c8-4999-b39d-f22676e69909",
+            "Value": {
+                "id": "c79308b2-5d83-4814-976c-eee89ca1cf5a",
+                "resourcePath": "sprites\\sprVIewsSuck\\sprVIewsSuck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b23826a-211d-4193-86ff-00c6a5e8cfc8",
             "Value": {
                 "id": "3b74319e-3c1b-491c-82a7-fea300909ab1",
