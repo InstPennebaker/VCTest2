@@ -205,6 +205,14 @@
                 "resourcePath": "views\\fa011f90-e2ab-4eb0-8b1d-0a383eac1c96.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fecfa33a-de28-4359-bc38-106ab51298f5",
+            "Value": {
+                "id": "a0452f6d-e1a0-4c68-a721-c4a0e020034b",
+                "resourcePath": "sprites\\spr_justin\\spr_justin.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
